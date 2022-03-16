@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HealthScore
 {
+    //Classe para servir de base para o List de Events da Program
     public class Events
     {
         public int Id { get; set;}
